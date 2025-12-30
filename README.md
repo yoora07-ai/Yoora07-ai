@@ -41,7 +41,6 @@
   <!--rstudio IDE-->
   <img src="https://img.shields.io/badge/rstudio IDE-75AADB?style=flat-square&logo=rstudioide&logoColor=white"/>
   <br/>
-  <br/>
 
   ### ETC
   <!--MySQL-->
