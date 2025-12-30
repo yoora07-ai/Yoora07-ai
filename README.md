@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/rstudio IDE-75AADB?style=flat-square&logo=rstudioide&logoColor=white"/>
   <br/>
 
-  ### ETC
+  ### Database
   <!--MySQL-->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
